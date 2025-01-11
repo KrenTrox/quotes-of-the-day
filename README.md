@@ -2,6 +2,8 @@
 
 A modern, production-ready React application that displays inspiring quotes fetched from the FavQs API built with TypeScript, React Query, and Tailwind CSS.
 
+Project diagram - https://gitdiagram.com/KrenTrox/quotes-of-the-day
+
 ## Features
 
 - 🎯 Fetch random quotes with customizable count
